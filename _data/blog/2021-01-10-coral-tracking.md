@@ -3,6 +3,7 @@ template: BlogPost
 path: /coraltracking
 date: 2021-01-10T04:19:59.503Z
 title: Coral Tracking
+thumbnail: /assets/tropical-fish.jpg
 ---
 ## Coral Tracking
 
