@@ -14,7 +14,7 @@ Install this starter locally: (assuming you already have [NodeJS and GatsbyJS in
 gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delog
 ```
 
-Instructions also available at W3Layouts [Delog Launch Article](https://w3layouts.com/articles/delog-gatsby-starter-netlify-cms/).
+Instructions also available at W3Layouts [Delog Launch Article](https://w3layouts.com/articles/delog-gatsby-starter-netlify-cms/) touch.
 
 ## Features
 - Built with GatsbyJS and Netlify CMS
