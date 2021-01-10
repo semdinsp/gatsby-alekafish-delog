@@ -57,7 +57,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        short_name: `Al Eka Fish`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#381696`,
@@ -71,8 +71,8 @@ module.exports = {
     'gatsby-plugin-dark-mode',
     // siteURL is a must for sitemap generation
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-offline`,
-    'gatsby-transformer-shart',
-    'gatsby-plugin-sharp'
+    `gatsby-plugin-offline`
+  //  'gatsby-transformer-sharp',
+  //  'gatsby-plugin-sharp'
   ],
 }
