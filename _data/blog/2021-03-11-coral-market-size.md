@@ -6,7 +6,7 @@ title: Coral Market Size
 metaDescription: business size
 thumbnail: /assets/tropical-fish.jpg
 ---
-Coral Market Size
+## Coral Market Size
 
 BBC has estimated the aquarium market at between 10-12 Billion USD annually.  In addition, Indonesia has recently allowed coral exports from licensed farms (they had disabled exports in 2018 as there was lots of fraud from non farmed coral).
 
