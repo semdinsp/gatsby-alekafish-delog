@@ -4,6 +4,7 @@ path: /marketsize
 date: 2021-03-11T07:54:05.229Z
 title: Coral Market Size
 metaDescription: business size
+thumbnail: /assets/tropical-fish.jpg
 ---
 Coral Market Size
 
