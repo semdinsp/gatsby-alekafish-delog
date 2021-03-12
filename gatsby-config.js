@@ -56,7 +56,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
+        name: `Al Eka Fishworld website`,
         short_name: `Al Eka Fish`,
         start_url: `/`,
         background_color: `#fff`,
@@ -72,7 +72,8 @@ module.exports = {
     // siteURL is a must for sitemap generation
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-offline`,
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`
   ],
 }
