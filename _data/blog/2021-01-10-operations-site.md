@@ -19,7 +19,9 @@ We have done an initial paper based survey of this location and the feedback was
 
 ### Proposed site survey 
 
-We envision using the following techniques for our site survey.
+We envision using the following advanced marine technology  techniques for our site survey.
+
+#### Towed Survey
 
 ![surveying the reef (aka human crocbait)](/assets/crocbait.png "Manta Towed Reef Survey")
 
