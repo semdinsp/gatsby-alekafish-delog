@@ -16,3 +16,13 @@ We have done an initial paper based survey of this location and the feedback was
 1. Location looks fair to good based on open water exposure
 2. Ocean current appears to be flowing from SW to NE which should reduce impact from land pollution.  The coastline's bend on northern side should help to keep water surface temperatures lower.
 3. Further surveys are suggested to fully understand the area's potential.
+
+### Proposed site survey 
+
+We envision using the following techniques for our site survey.
+
+![surveying the reef (aka human crocbait)](/assets/crocbait.png "Manta Towed Reef Survey")
+
+Species Survey Techniques
+
+![reef deetailed survey](/assets/reefspeciessurvey.png "Detailed Reef Survey")
