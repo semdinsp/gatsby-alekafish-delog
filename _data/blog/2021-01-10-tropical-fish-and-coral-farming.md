@@ -8,4 +8,6 @@ thumbnail: /assets/clown-fish-in-aquarium.jpg
 ---
 ## Coral Farming
 
-Our coral farming and tropical fish exporting business is under construction. We will update this page as we progress .
+Our plan is to see coral tables from a few natural corals and then use the seeded coral to "farm" coral.  In theory there is minimal environmental impact from this activity and our coral tables act as natural reefs to attract fish.
+
+We plan to upload some photos of our first ten coral tables shortly.  We will use this link to track progress.
