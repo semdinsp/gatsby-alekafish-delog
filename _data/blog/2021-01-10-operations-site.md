@@ -17,14 +17,18 @@ We have done an initial paper based survey of this location and the feedback was
 2. Ocean current appears to be flowing from SW to NE which should reduce impact from land pollution.  The coastline's bend on northern side should help to keep water surface temperatures lower.
 3. Further surveys are suggested to fully understand the area's potential.
 
-### Proposed site survey 
+### Proposed site survey
 
 We envision using the following advanced marine technology  techniques for our site survey.
 
 #### Towed Survey
 
+In a towed survey a person or device is towed over the coral and  general details about the reef is recorded  (eg size, species, depth).
+
 ![surveying the reef (aka human crocbait)](/assets/crocbait.png "Manta Towed Reef Survey")
 
-Species Survey Techniques
+#### Species Survey Techniques
+
+In this technique we use cameras and accurate species counts to map particular parts of the reef.  Careful optical devices ensure the size of the coral and species can be accurately mapped.  Images can be sent to experts for species identification.
 
 ![reef deetailed survey](/assets/reefspeciessurvey.png "Detailed Reef Survey")
