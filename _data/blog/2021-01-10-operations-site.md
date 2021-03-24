@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /operationalsite
-date: 2021-01-10T09:51:24.024Z
+date: 2021-02-25T09:51:24.024Z
 title: Operations Site
 thumbnail: /assets/atabae_beach.jpg
 ---
