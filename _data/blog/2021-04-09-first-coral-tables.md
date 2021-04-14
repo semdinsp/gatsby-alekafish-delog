@@ -11,4 +11,4 @@ We have started building our first coral tables this week (see the picture above
 
 We will build up to ten tables and then source coral seedlings with assistance from appropriate  local resources.  We want to have  inventory on site in Atabae and technical capacity within our team when we are ready to aggressively grow.
 
-It is likely we will start to produce tables locally in Atabae once we hire some local resources in Atabae and can transfer knowledge to the team.
+It is likely we will start to produce tables locally in Atabae once we hire  local resources in Atabae and can transfer knowledge to the team.
