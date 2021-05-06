@@ -27,7 +27,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Al Eka Fishworld Lda &bull; Crafted with <span role="img" aria-label="love">❤️</span> by scott and eka </p>
+        <p>&copy; {new Date().getFullYear()} Al Eka Fishworld Lda &bull; Crafted with <span role="img" aria-label="love">❤️</span> for the environment </p>
       </footer>
     </div>
   )
