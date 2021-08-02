@@ -2,7 +2,7 @@
 template: BlogPost
 path: /firsttable
 date: 2021-08-02T05:46:39.955Z
-title: First Table Deployed
+title: First Coral Table Deployed
 metaDescription: first coral table deployed near dili
 thumbnail: /assets/IMG_5F45595C438B-1.jpeg
 ---
