@@ -3,7 +3,7 @@ template: BlogPost
 path: /coraltables
 date: 2021-04-09T04:05:05.144Z
 title: First Coral Tables
-thumbnail: /assets/coraltable.jpg
+thumbnail: /assets/coraltablesmaller.jpg
 ---
 ## Coral Table/Inventory
 
