@@ -4,7 +4,7 @@ path: /coral-nfts
 date: 2022-05-16T23:05:39.676Z
 title: NFTs on Coral Cutting
 ---
-Coral NFTs
+## Coral NFTs
 
 We plan to support our corals with NFTs and traceability.
 
