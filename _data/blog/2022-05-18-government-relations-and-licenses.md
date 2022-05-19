@@ -11,12 +11,12 @@ We are pleased to announce that the  15 year property lease for our land in Atab
 
 ![](/assets/justiceminster.jpeg)
 
-### Fishery Licensed Email
+### Fishery License Renewed
 
-During the recent trip Miss Mardiati was also able to renew the fishery license for import and export of sustainably harvested coals and fish (live).
+During the recent trip Miss Mardiarti was also able to renew the fishery license for import and export of sustainably harvested coals and fish (live).
 
-Supported by Trade Invest
+## Supported by Trade Invest
 
-Trade Invest Timor Leste assisted in securing our licenses.  We extend our grateful appreciate for their support.
+Trade Invest Timor Leste assisted in securing our licenses.  We extend our grateful appreciation for their support and the support of their team of experts.
 
 ![](/assets/tradeinvest.jpeg)
