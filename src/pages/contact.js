@@ -17,8 +17,8 @@ const ContactPage = ({
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Get in Touch</h1>
-          <p>Contact us to work with us further in our various projects especially recyclinng and marketing services.  We are always lookin to explore aquaculture. &rarr;</p>
-    <p>Timor Leste contact: Eka Mardiarti Singapore contact: Scott Sproule</p>
+          <p><a href="mailto:info@marenum.com">Contact us</a> to work with us further in our various projects.  We are always lookin to explore aquaculture opportunities. &rarr;</p>
+    <p>Timor Leste contact: Eka Mardiarti  <a href="mailto:info@marenum.com">email us</a> </p>
     <p>Timor Office: <a href="tel:+67077035991">+670 77035991 </a> </p>
     <p>Timor Address:  Timor Plaza, CDB 2, 2 Andar, Aldela 20 de Setembro, Bebonuk Dom Aleixo, Dili, Timor Leste </p>
         </div>
