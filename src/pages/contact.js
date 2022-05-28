@@ -15,7 +15,7 @@ const ContactPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/IMG-5F45595C438B-1.jpg')`, marginBottom: 0}}>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/IMG_5F45595C438B-1.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Get in Touch</h1>
           <p><a href="mailto:info@marenum.com">Contact us</a> to work with us further in our various projects.  We are always lookin to explore aquaculture opportunities. &rarr;</p>
     <p>Timor Leste contact: Eka Mardiarti  <a href="mailto:info@marenum.com">email us</a> </p>
