@@ -14,3 +14,11 @@ We have two table locations in Atabae.  Once is above coral and the other is in 
 [Location 2](https://www.google.com/maps/place/8%C2%B049'32.3%22S+125%C2%B003'57.3%22E/@-8.8321924,125.0640756,14.65z/data=!4m5!3m4!1s0x0:0xe383b92b3784cc7f!8m2!3d-8.825647!4d125.065911) \[Lat/Long -8.825647/125.065911]
 
 We will measure coral growth a both locations and track progress over time.
+
+![]()
+
+### Unique Varieties
+
+We are finding unique coral varieties in the sea. 
+
+![](/assets/photo-2022-08-04-23-03-52-4.jpg)
