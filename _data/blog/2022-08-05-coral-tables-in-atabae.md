@@ -15,7 +15,7 @@ We have two table locations in Atabae.  Once is above coral and the other is in 
 
 We will measure coral growth a both locations and track progress over time.
 
-![]()
+![](/assets/measurecoral.png)
 
 ### Unique Varieties
 
