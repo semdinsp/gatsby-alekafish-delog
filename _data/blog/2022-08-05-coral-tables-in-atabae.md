@@ -2,7 +2,7 @@
 template: BlogPost
 path: /tablelocations
 date: 2022-08-05T03:46:21.860Z
-title: Coral Tables in Atabae
+title: Coral Tables and Unique Coral Photos in Atabae
 thumbnail: /assets/img_8b4d6cbaf9bb-1.jpeg
 ---
 # Coral Table Location Tests
@@ -19,6 +19,8 @@ We will measure coral growth a both locations and track progress over time.
 
 ### Unique Varieties
 
-We are finding unique coral varieties in the sea. 
+We are finding unique and colorful coral varieties in the Timor Sea. 
+
+![](/assets/photo-2022-08-11-19-56-10.jpg)
 
 ![](/assets/photo-2022-08-04-23-03-52-4.jpg)
