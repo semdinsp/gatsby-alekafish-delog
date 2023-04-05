@@ -21,6 +21,8 @@ const ContactPage = ({
     <p>Timor Leste contact: Eka Mardiarti  <a href="mailto:info@marenum.com">email us</a> </p>
     <p>Timor Office: <a href="tel:+67077035991">+670 77035991 </a> </p>
     <p>Timor Address:  Timor Plaza, CDB 2, 2 Andar, Aldela 20 de Setembro, Bebonuk Dom Aleixo, Dili, Timor Leste </p>
+    <p><a href="https://www.facebook.com/profile.php?id=100089837906138">Facebook</a></p>
+    <p><a href="https://www.instagram.com/al.ekafishworld/">Instagram</a></p>
         </div>
         <div>
           <form className="form-container" name="contact" data-netlify="true"  data-netlify-honeypot="bot-field" action="/success"  method="POST">
