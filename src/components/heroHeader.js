@@ -23,6 +23,7 @@ export default () => (
         />
         <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
         <Link to='https://donation.marenum.com' className="button -primary">Join us or sponsor a coral table &rarr;</Link>
+        <Link to='https://donation.marenum.com/products' className="button -primary"> Farmed coral and sustainably farmed fish &rarr;</Link>
       </div>
     )}
   />
