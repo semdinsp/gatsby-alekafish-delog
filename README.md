@@ -122,3 +122,8 @@ All notable changes to this project are listed here.
 
 ### [1.0.0] - 2020-03-14
 - Launch of GatsbyJS and Netlify CMS based starter `gatsby-starter-delog`
+
+### SCOTT
+- node -v
+- nvm use 18.2.0
+- gatsby develop

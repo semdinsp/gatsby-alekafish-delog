@@ -21,9 +21,10 @@ export default () => (
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
-        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
-        <Link to='https://donation.marenum.com' className="button -primary">Join us or sponsor a coral table &rarr;</Link>
-        <Link to='https://donation.marenum.com/products' className="button -primary"> Farmed coral and sustainably farmed fish &rarr;</Link>
+        <Link to='/contact' className="button -primary">Get in touch&rarr;</Link>
+        <Link to='https://donation.marenum.com' className="button -primary">Sponsor a coral table&rarr;</Link>
+        <Link to='https://donation.marenum.com/tour' className="button -primary">Tour our coral farm&rarr;</Link>
+        <Link to='https://donation.marenum.com/products' className="button -primary">Coral and fish products&rarr;</Link>
       </div>
     )}
   />
